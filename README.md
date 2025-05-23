@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Data Visualisation](https://img.shields.io/badge/Data%20Visualisation-More-blue?style=flat&logo=chartdotjs&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-null?style=flat&logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-developer-black?style=flat&logo=apple&logoColor=white)
 
