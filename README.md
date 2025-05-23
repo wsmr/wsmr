@@ -45,6 +45,11 @@ Here are some ideas to get you started:
 
 ---
 
+[![CodePen](https://img.shields.io/badge/CodePen-Profile-black?style=flat&logo=codepen&logoColor=white)](https://codepen.io/sahannett)
+[![StackBlitz](https://img.shields.io/badge/StackBlitz-Profile-blue?style=flat&logo=stackblitz&logoColor=white)](https://stackblitz.com/@wsmr)
+
+---
+
 ### 📈 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wsmr&theme=blue-green&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/wsmr)
